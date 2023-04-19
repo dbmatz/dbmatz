@@ -1,5 +1,6 @@
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=dbmatz&show_icons=true&theme=dracula alt=dbmatz />
+	<img height="180em" src=https://github-readme-stats.vercel.app/api?username=dbmatz&show_icons=true&theme=dracula alt=dbmatz />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbmatz&layout=compact&langs_count=7&theme=dracula&"/>
 </p>
 
 # 👋 Hello World!
