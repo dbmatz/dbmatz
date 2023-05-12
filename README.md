@@ -6,27 +6,27 @@
 </p>
 
 # 
-👩‍💻 My name is Débora Matzenbacher and I'm an aspiring back-end developer!
+👩‍💻 Meu nome é Débora Matzenbacher e sou aspirante a desenvolvedora back-end!
 <br>
-🖥 Web Development Student
+🖥 Sou estudante de Desenvolvimento Web
 <br>
-📍 Campo Grande, MS, Brazil
+📍 Campo Grande, MS, Brasil
 
 ##
 
-### Most used technologies
+### Tecnologias mais usadas
   #### Back End
   ![PHP](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   
-  #### Database
+  #### Banco de dados
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
-  #### Servers
+  #### Servidores
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
   
-  #### Operational systems
+  #### Sistemas operacionais
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -39,7 +39,9 @@
 
  ##
  
- ### Currently learning about
+ ### Atualmente aprendendo sobre
+ Estou fazendo meu estágio na área de infraestrutura de redes e datacenter, onde tenho a oportunidade de trabalhar com tecnologias como
+ 
  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
  ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
